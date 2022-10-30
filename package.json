@@ -1,7 +1,6 @@
 {
   "name": "servidorapi",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node app",
@@ -18,5 +17,15 @@
     "express-validator": "^6.9.2",
     "mongoose": "^5.11.15",
     "nodemon": "^2.0.20"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleGuevara99/AduanaCentroamerica-Parcial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AleGuevara99/AduanaCentroamerica-Parcial/issues"
+  },
+  "homepage": "https://github.com/AleGuevara99/AduanaCentroamerica-Parcial#readme",
+  "description": ""
 }
